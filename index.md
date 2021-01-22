@@ -43,7 +43,7 @@ __2* Stars Diver (FBDAS)__
 __Mountain Sports Technician Level 1__
 
 `2016-2018`
-__Superior Degree Technician in Animation of Physical and Sport Activities__
+__Superior Degree Technician in Animation of Physical and Sport Activities (TAFAD)__
 
 `2020-2022` 
 __Superior Degree in Software Development__
@@ -87,7 +87,7 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ## Languages
 
-* Spanish (Native)
-* Catalan (Native)
-* English (Intermedium-Advanced)
+* __Spanish__ (Native)
+* __Catalan__ (Native)
+* __English__ (Intermedium-Advanced)
 
