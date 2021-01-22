@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+--- 
+layout: cv
+title: Pau Llinàs Amat CV
+---
+# Pau Llinàs Amat
+Sport Technician, Software Developer Apprentice, Lerning Lover
 
-You can use the [editor on GitHub](https://github.com/pau13-loop/CV/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="webaddress">
+<a href="dpbllinas@gmail.com">dpbllinas@gmail.com</a>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+Hi my name is Pau and i'll like to introduce myself like a focus and active person with great initiative.
+ 
+My performance is always oriented to the execution and achievement of results in the tasks that can be assigned to me. 
 
-### Markdown
+I'm a committed person to work therefore i would like to be considered and have the chance to collaborate in your business.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Personal Data
 
-# Header 1
-## Header 2
-### Header 3
+*  __Province:__ Balearic Islands
+* __Locality:__ Palma de Mallorca
+* __Address:__ Antonio Marques MArques 4 7º 2ª
+* __Post Code:__ 07003
+*  __Birth Date:__ 13/09/1998
+*  __Telephone Number:__ +34 661610908
+*  __Email:__ dpbllinas@gmail.com
+*  __Driving License:__ B and AM
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##  Education
 
-**Bold** and _Italic_ and `Code` text
+`2010-2014`
+__Compulsory Secondary Eduaction (ESO)__
 
-[Link](url) and ![Image](src)
-```
+`2014-2015`
+__Medium Degree in Conducting Physical and Sports Activities in the Nature Environment__
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`2015-2016`
+__2* Stars Diver (FBDAS)__
 
-### Jekyll Themes
+`2015-2016`
+__Mountain Sports Technician Level 1__
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pau13-loop/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`2016-2018`
+__Superior Degree Technician in Animation of Physical and Sport Activities__
 
-### Support or Contact
+`2020-2022` 
+__Superior Degree in Software Development__
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`2020`
+__Mongo DB Basics__
+
+
+## Work Experience
+
+`2015` 
+__Student Apprentice at Handiesport Foundation__
+
+`2016`
+__Staff at CMAS World Cup Spearfishing__
+
+`2017`
+__Staff at CMAS World Cup Spearfishing__
+
+`2014-2017`
+__Guide Assistant in Underwater Activities in FBDAS__
+
+`2017`
+__Student Apprentice like Guide Assistant in Nature Activities__
+
+`2018`
+__Swimming Coach at the school of San Cayetano__ 
+
+`2018`
+__Swimming Coach at Sports85__
+
+`2018-2019`
+__KP-Runner at the Pheasant Pub Oxfordshire__
+
+`2019`
+__Swimming Coach at the school of San Cayetano__
+
+`2019-2020`
+__Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
+
+
+## Languages
+
+* Spanish (Native)
+* Catalan (Native)
+* English (Intermedium-Advanced)
+
