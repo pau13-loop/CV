@@ -10,11 +10,9 @@ Sport Technician, Software Developer Apprentice, Lerning Lover
 </div>
 
 ## About Me
-Hi my name is Pau and i'll like to introduce myself like a focus and active person with great initiative.
- 
+Hi my name is Pau and i would like to introduce myself as a focused and active person with great initiative.
 My performance is always oriented to the execution and achievement of results in the tasks that can be assigned to me. 
-
-I'm a committed person to work therefore i would like to be considered and have the chance to collaborate in your business.
+I'm a committed person with work therefore i would like to be considered and have the chance to collaborate in your business.
 
 
 ## Personal Data
