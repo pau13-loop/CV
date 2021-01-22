@@ -25,7 +25,6 @@ I'm a committed person to work therefore i would like to be considered and have 
 * __Post Code:__ 07003
 *  __Birth Date:__ 13/09/1998
 *  __Telephone Number:__ +34 661610908
-*  __Email:__ dpbllinas@gmail.com
 *  __Driving License:__ B and AM
 
 
