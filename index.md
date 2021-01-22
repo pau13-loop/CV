@@ -3,7 +3,7 @@ layout: cv
 title: Pau Llinàs Amat CV
 ---
 # Pau Llinàs Amat
-Sport Technician, Software Developer Apprentice, Lerning Lover
+Sport Technician, Software Developer Student, Learning Lover
 
 <div id="webaddress">
 <a href="mailto:dpbllinas@gmail.com">dpbllinas@gmail.com</a>
