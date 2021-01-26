@@ -6,7 +6,7 @@ title: Pau Llinàs Amat CV
 Sport Technician, Software Developer Student, Learning Lover
 
 <div id="webaddress">
-<a href="mailto:dpbllinas@gmail.com">dpbllinas@gmail.com</a>
+<a href="mailto:pllinas@cifpfbmoll.eu">pllinas@cifpfbmoll.eu</a>
 </div>
 
 ## About Me
