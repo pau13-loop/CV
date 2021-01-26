@@ -70,7 +70,7 @@ __Guide Assistant in Underwater Activities in FBDAS__
 __Student Apprentice like Guide Assistant in Nature Activities__
 
 `2018`
-__Swimming Coach at the school of San Cayetano__ 
+__Swimming Coach at the English Summer Camp of San Cayetano School__ 
 
 `2018`
 __Swimming Coach at Sports85__
@@ -79,7 +79,7 @@ __Swimming Coach at Sports85__
 __KP-Runner at the Pheasant Pub Oxfordshire__
 
 `2019`
-__Swimming Coach at the school of San Cayetano__
+__Swimming Coach at the English Summer Camp of San Cayetano School__
 
 `2019-2020`
 __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
