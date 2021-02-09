@@ -21,10 +21,8 @@ I'm a committed person with work therefore i would like to be considered and hav
 
 *  __Province:__ Balearic Islands
 * __Locality:__ Palma de Mallorca
-* __Address:__ Antonio Marques MArques 4 7º 2ª
 * __Post Code:__ 07003
 *  __Birth Date:__ 13/09/1998
-*  __Telephone Number:__ +34 661610908
 *  __Driving License:__ B and AM
 
 
