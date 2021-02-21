@@ -114,7 +114,8 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ## Backend Programming Languages
 
-* __Java 11__
+* __Java__
+	* Java 11
 	* Maven
 	* Jacoco
 	* Junit
