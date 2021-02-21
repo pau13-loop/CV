@@ -115,14 +115,14 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 ## Backend Programming Languages
 
 * __Java 11__
-	* _Maven_
-	* _Jacoco_
-	* _Junit_
+	* Maven
+	* Jacoco
+	* Junit
 
 * __Python__
-	* _Pytest_
-	* _Pymongo_
-	* _Flask_
+	* Pytest
+	* Pymongo
+	* Flask
 
 	
 * __Docker__
@@ -130,13 +130,10 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ## Frontend Programming Languages
 
-* HTML
-
-* CSS3
-
-* JavaScript
-
-* MarkDown
+* __HTML__
+* __CSS3__
+* __JavaScript__
+* __MarkDown__
 
 ## Languages
 
