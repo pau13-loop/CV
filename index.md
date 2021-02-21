@@ -82,10 +82,72 @@ __Swimming Coach at the English Summer Camp of San Cayetano School__
 `2019-2020`
 __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
+## Personal Skills
+
+### Scrum
+
+> Capacities of self-organizaton, focus on outcomes and manage blockers 
+
+### Agile Methodologies
+
+> Personal experience and knowledge thanks to the daily use and practice of agile methodologies
+
+### TDD
+
+> Unconditional love of the TDD practice, learning how to minimize coding errors and improving coding habits and techniques
+
+### SOLID 
+
+> Knowledge about of to develop software following the SOLID Principles
+
+### Version Control
+
+> Knowledge about of to develop software following the SOLID Principles
+
+### Defensive Programming
+
+> Knowledge good practices to improve the produced software and source code
+
+### DDD
+
+> Training about the Doman-Driven Design, learning skills of interpretation and creation of models, communication betweent software and domain experts, developing software based on an UML diagram
+
+## Backend Programming Languages
+
+* Java 11
+	* Maven
+	* Jacoco
+	* Junit
+
+* Python
+	* Pytest
+	* Pymongo
+	* Flask
+
+	
+* Docker
+* MongoDB
+
+## Frontend Programming Languages
+
+* HTML
+
+* CSS3
+
+* JavaScript
+
+* MarkDown
 
 ## Languages
 
 * __Spanish__ (Native)
 * __Catalan__ (Native)
 * __English__ (Intermedium-Advanced)
+
+## Driving Licenses
+
+* __Driving License:__ AM
+* __Driving License:__ B
+
+
 
