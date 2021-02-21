@@ -84,49 +84,49 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ## Personal Skills
 
-### Scrum
+### __Scrum__
 
 > Capacities of self-organizaton, focus on outcomes and manage blockers 
 
-### Agile Methodologies
+### __Agile Methodologies__
 
 > Personal experience and knowledge thanks to the daily use and practice of agile methodologies
 
-### TDD
+### __TDD__
 
 > Unconditional love of the TDD practice, learning how to minimize coding errors and improving coding habits and techniques
 
-### SOLID 
+### __SOLID__ 
 
 > Knowledge about of to develop software following the SOLID Principles
 
-### Version Control
+### __Version Control__
 
 > Knowledge about of to develop software following the SOLID Principles
 
-### Defensive Programming
+### __Defensive Programming__
 
 > Knowledge good practices to improve the produced software and source code
 
-### DDD
+### __DDD__
 
 > Training about the Doman-Driven Design, learning skills of interpretation and creation of models, communication betweent software and domain experts, developing software based on an UML diagram
 
 ## Backend Programming Languages
 
-* Java 11
-	* Maven
-	* Jacoco
-	* Junit
+* __Java 11__
+	* _Maven_
+	* _Jacoco_
+	* _Junit_
 
-* Python
-	* Pytest
-	* Pymongo
-	* Flask
+* __Python__
+	* _Pytest_
+	* _Pymongo_
+	* _Flask_
 
 	
-* Docker
-* MongoDB
+* __Docker__
+* __MongoDB__
 
 ## Frontend Programming Languages
 
