@@ -9,7 +9,7 @@ Sport Technician, Software Developer Student, Learning Lover
 <a href="mailto:pllinas@cifpfbmoll.eu">pllinas@cifpfbmoll.eu</a>
 </div>
 <div id="webaddress">
-<a href="https://www.codewars.com/users/Paulk123">CodeWars Profile</a>
+<a href="https://www.codewars.com/users/Paulk123" target="_blank">CodeWars Paulk123</a>
 </div>
 
 ## About Me
