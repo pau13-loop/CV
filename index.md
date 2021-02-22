@@ -8,6 +8,9 @@ Sport Technician, Software Developer Student, Learning Lover
 <div id="webaddress">
 <a href="mailto:pllinas@cifpfbmoll.eu">pllinas@cifpfbmoll.eu</a>
 </div>
+<div id="webaddress">
+<a href="https://www.codewars.com/users/Paulk123">CodeWars Profile</a>
+</div>
 
 ## About Me
 Hi my name is Pau and i would like to introduce myself as a focused and active person with great initiative.
