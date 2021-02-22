@@ -84,7 +84,7 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ## Personal Skills
 
-## __OOP__
+### __OOP__
 
 > Learning and training oop programming paradigm, loving the object concept
 
