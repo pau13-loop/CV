@@ -13,7 +13,7 @@ I am a focused and active person with great initiative. I enjoy and get satisfac
 
 My performance is always oriented to the execution and achievement of results in the tasks that can be assigned to me. 
 
-I'm a committed person with work therefore I would like to be considered and have the chance to collaborate in your business.
+I'm a committed person with work therefore, I would like to be considered and have the chance to collaborate in your business.
 
 
 ## Personal Data
@@ -103,7 +103,7 @@ __Svelte Web Developer__
 
 ### __TDD__
 
-> Unconditional love of the TDD practice, learning how to minimize coding errors and improving coding habits and techniques
+> Tranied in minimizing coding errors and improving coding habits and techniques
 
 ### __SOLID__ 
 
