@@ -1,23 +1,19 @@
---- 
-layout: cv
-title: Pau Llinàs Amat CV
----
 # Pau Llinàs Amat
-Sport Technician, Software Developer Student, Learning Lover
+Sport Technician, Experienced Software Developer, Learning Lover
 
 <div id="webaddress">
-<a href="mailto:pllinas@cifpfbmoll.eu">pllinas@cifpfbmoll.eu</a>
+<a href="mailto:pllinas42@gmail.com">pllinas42@gmail.com</a>
 </div>
 <div id="webaddress">
 <a href="https://www.codewars.com/users/Paulk123" target="_blank">CodeWars Profile</a>
 </div>
 
 ## About Me
-Hi my name is Pau and i would like to introduce myself as a focused and active person with great initiative.
+I am a focused and active person with great initiative. I enjoy and get satisfaction from completeing tasks and using knowledge I have. I love to learn new things and meet new people. I work well in teams and leading to achieve goals. 
 
 My performance is always oriented to the execution and achievement of results in the tasks that can be assigned to me. 
 
-I'm a committed person with work therefore i would like to be considered and have the chance to collaborate in your business.
+I'm a committed person with work therefore I would like to be considered and have the chance to collaborate in your business.
 
 
 ## Personal Data
@@ -85,11 +81,17 @@ __Swimming Coach at the English Summer Camp of San Cayetano School__
 `2019-2020`
 __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
+`2021-currently`
+__Full Stak Web Developer__
+
+`2022-currently`
+__Svelte Web Developer__
+
 ## Personal Skills
 
 ### __OOP__
 
-> Learning and training oop programming paradigm, loving the object concept
+> Learning and training oop programming paradigm
 
 ### __Scrum__
 
@@ -105,54 +107,42 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
 ### __SOLID__ 
 
-> Knowledge about of to develop software following the SOLID Principles
+> Knowledge about how to develop software following the SOLID Principles
 
 ### __Version Control__
 
-> Knowledge about of to develop software following the SOLID Principles
+> High experience on GIT
 
 ### __Defensive Programming__
 
-> Knowledge good practices to improve the produced software and source code
+> Good practices to improve the produced software and source code
 
 ### __DDD__
 
 > Training about the Doman-Driven Design, learning skills of interpretation and creation of models, communication betweent software and domain experts, developing software based on an UML diagram
 
-## Backend Programming Languages
+## Well Experiencied In
 
-* __Java__
-	* Java 11
-	* Maven
-	* Jacoco
-	* Junit
-
-* __Python__
-	* Pytest
-	* Pymongo
-	* Flask
-
-	
-* __Docker__
-* __MongoDB__
-
-## Frontend Programming Languages
-
-* __HTML__
-* __CSS3__
-* __JavaScript__
-* __MarkDown__
+- API REST
+- RPC
+- SQL
+- Postgres
+- JavaScript
+- TypeScript
+- Svelte
+- React
+- React Native
+- Java
+- C#
+- Jira
 
 ## Languages
 
 * __Spanish__ (Native)
 * __Catalan__ (Native)
-* __English__ (Intermedium-Advanced)
+* __English__ (Advanced)
 
 ## Driving Licenses
 
 * __Driving License:__ AM
 * __Driving License:__ B
-
-
-
