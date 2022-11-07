@@ -1,8 +1,8 @@
-# Pau Llinàs Amat
+b# Pau Llinàs Amat
 Sport Technician, Experienced Software Developer, Learning Lover
 
 <div id="webaddress">
-<a href="mailto:pllinas42@gmail.com">pllinas42@gmail.com</a>
+<a href="mailto:dpbllinas@gmail.com">dpbllinas@gmail.com</a>
 </div>
 <div id="webaddress">
 <a href="https://www.codewars.com/users/Paulk123" target="_blank">CodeWars Profile</a>
@@ -123,18 +123,43 @@ __Svelte Web Developer__
 
 ## Well Experiencied In
 
-- API REST
-- RPC
-- SQL
-- Postgres
-- JavaScript
-- TypeScript
-- Svelte
-- React
-- React Native
-- Java
-- C#
-- Jira
+- <u>FrontEnd</u>
+    - React
+    - Svelte
+    - Javascript & Typescript
+    - HTML
+    - CSS3
+
+    </br>
+
+- <u>BackEnd</u>
+    - Java
+    - C#
+    - .Net
+    - NodeJS
+
+    </br>
+
+- <u>Android & iOS</u>
+    - React Native
+    - Android Studio
+    - Expo
+
+    </br>
+
+- <u>DataBase</u>
+    - MySQL
+    - PostgresQL
+    - SQL Server
+    - MongoDB
+
+    </br>
+
+- <u>Others</u>
+    - API REST
+    - RPC
+    - Jira
+    - Slack
 
 ## Languages
 
