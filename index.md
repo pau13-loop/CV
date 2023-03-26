@@ -48,6 +48,9 @@ __Superior Degree in Software Development__
 `2020`
 __Mongo DB Basics__
 
+`2023-currently`
+__Master Degree of Project Managment at ENEB__
+
 
 ## Work Experience
 
@@ -84,7 +87,7 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 `2021-currently`
 __Full Stak Web Developer__
 
-`2022-currently`
+`2022-2023`
 __Svelte Web Developer__
 
 ## Personal Skills
