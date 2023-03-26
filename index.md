@@ -6,6 +6,8 @@ Sport Technician, Experienced Software Developer, Learning Lover
 </div>
 <div id="webaddress">
 <a href="https://www.codewars.com/users/Paulk123" target="_blank">CodeWars Profile</a>
+</div>
+<div id="webaddress">
 <a href="https://www.linkedin.com/in/pau-llin%C3%A0s-1343a3124" target="_blank">Linkedin Profile</a>
 </div>
 
