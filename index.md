@@ -42,14 +42,14 @@ __Mountain Sports Technician Level 1__
 `2016-2018`
 __Superior Degree Technician in Animation of Physical and Sport Activities (TAFAD)__
 
-`2020-2022` 
-__Superior Degree in Software Development__
-
 `2020`
 __Mongo DB Basics__
 
+`2020-2022` 
+__Superior Degree in Software Development__
+
 `2023-currently`
-__Master Degree of Project Managment at ENEB__
+__Master Degree of Project Managment__
 
 
 ## Work Experience
@@ -84,11 +84,11 @@ __Swimming Coach at the English Summer Camp of San Cayetano School__
 `2019-2020`
 __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 
-`2021-currently`
-__Full Stak Web Developer__
-
 `2022-2023`
 __Svelte Web Developer__
+
+`2021-currently`
+__Full Stak Web Developer__
 
 ## Personal Skills
 
