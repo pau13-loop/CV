@@ -1,12 +1,9 @@
 # Pau Llinàs Amat
 
-Sport Technician, Experienced Software Developer, Learning Lover
+Sport Technician, Experienced Software Developer, Enthusiastic Learner
 
 <div id="webaddress">
-<a href="mailto:dpbllinas@gmail.com">dpbllinas@gmail.com</a>
-</div>
-<div id="webaddress">
-<a href="https://www.codewars.com/users/Paulk123" target="_blank">CodeWars Profile</a>
+<a href="mailto:pllinas42@gmail.com">pllinas42@gmail.com</a>
 </div>
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/pau-llin%C3%A0s-1343a3124" target="_blank">Linkedin Profile</a>
@@ -92,7 +89,10 @@ __Pantry-Cheese Sommelier and Commis de Rang at Swinton Estate Hotel Yorkshire__
 __Svelte Web Developer__
 
 `2021-currently`
-__Full Stak Web Developer__
+__Semi Senior Full Stak Web and App Developer - Junior Project Manager__
+
+`2023-currently`
+__Senior Investigator Web and App Development__
 
 ## Personal Skills
 
@@ -100,7 +100,7 @@ __Full Stak Web Developer__
 
 > Learning and training oop programming paradigm
 
-### __Scrum__
+### __Scrum - Kanban - ScrumBan__
 
 > Capacities of self-organizaton, focus on outcomes and manage blockers 
 
@@ -116,7 +116,7 @@ __Full Stak Web Developer__
 
 > Knowledge about how to develop software following the SOLID Principles
 
-### __Version Control__
+### __GIT - Version Control__
 
 > High experience on GIT
 
@@ -136,14 +136,21 @@ __Full Stak Web Developer__
     - Javascript & Typescript
     - HTML
     - CSS3
+    - Tailwind
+    - NodeJS
+    - NextJS
+    - SCSS
 
     </br>
 
 - <u>BackEnd</u>
+    - API Rest
+    - RPC
     - Java
     - C#
     - .Net
     - NodeJS
+    - NestJS
 
     </br>
 
@@ -151,6 +158,8 @@ __Full Stak Web Developer__
     - React Native
     - Android Studio
     - Expo
+    - Swift
+    - XCode
 
     </br>
 
@@ -163,10 +172,11 @@ __Full Stak Web Developer__
     </br>
 
 - <u>Others</u>
-    - API REST
-    - RPC
     - Jira
     - Slack
+    - Sanity
+    - Notion
+    - Docusaurus
 
 ## Languages
 
